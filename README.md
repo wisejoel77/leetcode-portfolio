@@ -3,7 +3,7 @@
 ## 📈 Progress
 
 - Easy: 1 problem solved  
-- Medium: - 
+- Medium: -  
 - Hard: -  
 
 ---
@@ -17,11 +17,13 @@ It serves as a personal portfolio to track progress, strengthen problem-solving 
 
 ## 📂 Repository Structure
 
+```
 leetcode-portfolio/
 ├── Easy/ → Foundational LeetCode problems focused on basic logic and data structures.
 ├── Medium/ → LeetCode problems emphasizing optimization and structured thinking.
 ├── Hard/ → Advanced algorithmic challenges testing deep problem-solving ability.
 ├── README.md → Repository overview, progress tracking, and learning roadmap.
+```
 
 ---
 
@@ -29,10 +31,14 @@ leetcode-portfolio/
 
 Each solution follows this format:
 
+```
 <problem-number>-<problem-name>.<language>
+```
 
 Example:
+```
 0001-Two-Sum.java
+```
 
 ---
 
