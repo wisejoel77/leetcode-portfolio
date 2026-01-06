@@ -1,5 +1,8 @@
 // LeetCode 0001 - Two Sum
 // Solved on: 2 January 2026 
+// Approach: Brute Force using nested loops
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
