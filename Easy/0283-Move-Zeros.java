@@ -1,5 +1,8 @@
 // LeetCode 0283 - Move Zeros
 // Solved on: 6 January 2026 
+// Approach: Two-pointer (in-place swapping)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 class Solution {
     public void moveZeroes(int[] nums) {
