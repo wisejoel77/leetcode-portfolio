@@ -1,5 +1,8 @@
 // LeetCode 0268 - Missing Number
 // Solved on: 5 January 2026 
+// Approach: Sorting + index comparison
+// Time Complexity: O(n log n)
+// Space Complexity: O(1)
 
 class Solution {
     public int missingNumber(int[] nums) {
