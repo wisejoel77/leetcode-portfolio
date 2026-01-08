@@ -2,9 +2,9 @@
 
 ## 📈 Progress
 
-- Easy: 5 problems solved  
-- Medium: -  
-- Hard: -  
+- Easy: 8 problems solved  
+- Medium: 1 problem solved
+- Hard: -
 
 ---
 
